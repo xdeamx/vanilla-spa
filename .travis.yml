@@ -4,6 +4,7 @@ cache:
     - ~/.npm
 node_js:
   - '18'
+dist: focal
 git:
   depth: 3
 script:
